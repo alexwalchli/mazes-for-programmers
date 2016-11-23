@@ -1,0 +1,22 @@
+{
+  "name": "mazes-for-programmers",
+  "version": "1.0.0",
+  "description": "Following along the book Mazes for Programmers. Reimplementing algorithms in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexwalchli/mazes-for-programmers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexwalchli/mazes-for-programmers/issues"
+  },
+  "homepage": "https://github.com/alexwalchli/mazes-for-programmers#readme",
+  "devDependencies": {
+    "standard": "^8.5.0"
+  }
+}

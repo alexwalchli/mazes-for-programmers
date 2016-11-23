@@ -1,0 +1,1 @@
+Following along the book Mazes for Programmers. Reimplemented algorithms in JavaScript.
